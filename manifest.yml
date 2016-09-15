@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: gusharonau1ibmcom-ccapoa.apic.mybluemix.net
+  name: rmit-tutorial1
+  host: rmit-tutorial1
+  disk_quota: 1024M
